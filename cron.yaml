@@ -1,0 +1,4 @@
+cron:
+- description: Download new data from BITMEX
+  url: /tasks/bitmex-download
+  schedule: every 2 minutes
